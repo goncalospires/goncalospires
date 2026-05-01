@@ -28,11 +28,11 @@ I am seeking my first career opportunity in the IT field, where I can apply my s
 <div align = "left">
     <h3>🧠 Coding</h3>
     
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,php,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,php,dart,flutter)](https://skillicons.dev)
     <h3>💾 Databases</h3>
 [![My Skills](https://skillicons.dev/icons?i=mysql,firebase,sqlite)](https://skillicons.dev)
     <h3>💻 Hardware and Software</h3>
-[![My Skills](https://skillicons.dev/icons?i=windows,raspberrypi,linux,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,raspberrypi,linux,kali,ubuntu)](https://skillicons.dev)
     <h3>🛠️ Development Tools</h3>
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,pycharm,idea)](https://skillicons.dev)
 </div>
