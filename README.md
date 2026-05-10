@@ -20,7 +20,7 @@ const engineer = {
 ## 🚀 About Me
 **Junior Software Engineer** with a strong curiosity for understanding and developing technologies that simplify our daily routines, backed by practical academic experience in software development, networking, and systems integration.
 
-Currently, I am deepening my skills through a Master’s degree in Cybersecurity and Information Systems Auditing, also at ISPGAYA. My focus is on ensuring the security of digital infrastructures and data protection, aiming to apply this knowledge to address real-world market threats and challenges.
+Currently, I am deepening my skills through a Master’s degree in Cybersecurity and Information Systems Auditing at ISPGAYA. My focus is on ensuring the security of digital infrastructures and data protection, aiming to apply this knowledge to address real-world market threats and challenges.
 
 I am seeking my first career opportunity in the IT field, where I can apply my skills, contribute positively, and continue to grow as a professional.
 
