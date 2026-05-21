@@ -4,7 +4,7 @@
         <strong>Junior Software Engineer | Ongoing Master's Degree in Cybersecurity and Systems Audit at ISPGAYA</strong>
     </p>
 
-**📧 goncalospires.business@gmail.com** | **🌍 Portugal** | **💼🟢 Available for opportunities**
+**📧 goncalospires.business@gmail.com** | **🌍 Portugal** | **💼 Glintt Global**
 </div>
 
 ```javascript
@@ -21,8 +21,6 @@ const engineer = {
 **Junior Software Engineer** with a strong curiosity for understanding and developing technologies that simplify our daily routines, backed by practical academic experience in software development, networking, and systems integration.
 
 Currently, I am deepening my skills through a Master’s degree in Cybersecurity and Information Systems Auditing at ISPGAYA. My focus is on ensuring the security of digital infrastructures and data protection, aiming to apply this knowledge to address real-world market threats and challenges.
-
-I am seeking my first career opportunity in the IT field, where I can apply my skills, contribute positively, and continue to grow as a professional.
 
 ## 🛠️ Tech Stack
 <div align = "left">
